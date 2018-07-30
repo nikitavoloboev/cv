@@ -1,6 +1,6 @@
 # My [CV](https://nikitavoloboev.xyz/cv.pdf)
-All credit goes to [Awesome CV](https://github.com/posquit0/Awesome-CV#readme) and [Byungjin Park](https://github.com/posquit0).
+Generated using [Awesome CV](https://github.com/posquit0/Awesome-CV#readme). All credit goes to [Byungjin Park](https://github.com/posquit0).
 
-![](https://i.imgur.com/O0T546E.png)
+To generate the CV, read [this](https://github.com/posquit0/Awesome-CV#how-to-use).
 
-
+The CV can be seen live [here](https://nikitavoloboev.xyz/cv.pdf).
