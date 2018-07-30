@@ -6,6 +6,7 @@ To generate the CV, you need TeX distribution installed. I installed mine with [
 `nix-env -iA nixpkgs.texlive-combined-full`
 
 Assuming you have it installed, you can run:
+
 `xelatex cv.tex`
 
 This will create `cv.pdf` file which can be seen live [here](https://nikitavoloboev.xyz/cv.pdf).
