@@ -306,6 +306,9 @@
 % Usage: \twitter{<twitter handle>}
 \newcommand*{\twitter}[1]{\def\@twitter{#1}}
 
+% Usage: \location{<City/country>}
+\newcommand*{\location}[1]{\def\@location{#1}}
+
 % Defines writer's skype (optional)
 % Usage: \skype{<skype account>}
 \newcommand*{\skype}[1]{\def\@skype{#1}}
