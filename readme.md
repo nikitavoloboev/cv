@@ -2,9 +2,7 @@
 
 Built using [Awesome CV](https://github.com/posquit0/Awesome-CV). All credit goes to [Byungjin Park](https://github.com/posquit0).
 
-To compile this CV, you need [TeX distribution](https://sourabhbajaj.com/mac-setup/LaTeX/) installed.
-
-`brew cask install mactex` if on macOS
+To compile this CV, you need [TeX distribution](https://www.latex-project.org/) installed.
 
 When installed, you can run:
 
