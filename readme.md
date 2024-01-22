@@ -1,4 +1,4 @@
-# My [CV](https://nikiv.dev/cv.pdf)
+# My CV
 
 Built using [Awesome CV](https://github.com/posquit0/Awesome-CV). All credit goes to [Byungjin Park](https://github.com/posquit0).
 
@@ -8,6 +8,10 @@ When installed, you can run:
 
 `xelatex cv.tex`
 
-This will create `cv.pdf` file which can be seen live [here](https://nikiv.dev/cv.pdf).
+This will create `cv.pdf` file.
 
-[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+### 🖤
+
+[Support on GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects).
+
+[![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=black&color=black)](https://discord.com/invite/TVafwaD23d) [![X](https://img.shields.io/badge/nikitavoloboev-100000?logo=X&color=black)](https://twitter.com/nikitavoloboev) [![nikiv.dev](https://img.shields.io/badge/nikiv.dev-black)](https://nikiv.dev)
